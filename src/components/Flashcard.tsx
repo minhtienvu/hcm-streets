@@ -53,7 +53,10 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
         >
           <CardContent>
             <Typography variant="h5" component="div" align="center">
-              {flashcard.question}
+              {flashcard.question.en}
+            </Typography>
+            <Typography variant="subtitle1" component="div" align="center" sx={{ mt: 1, color: 'text.secondary' }}>
+              {flashcard.question.vi}
             </Typography>
             <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
               Click to see answer
@@ -78,12 +81,20 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
         >
           <CardContent>
             <Typography variant="h5" component="div" align="center">
-              {flashcard.answer}
+              {flashcard.answer.en}
+            </Typography>
+            <Typography variant="subtitle1" component="div" align="center" sx={{ mt: 1, color: 'text.secondary' }}>
+              {flashcard.answer.vi}
             </Typography>
             {flashcard.additionalInfo && (
-              <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
-                {flashcard.additionalInfo}
-              </Typography>
+              <>
+                <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
+                  {flashcard.additionalInfo.en}
+                </Typography>
+                <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 1 }}>
+                  {flashcard.additionalInfo.vi}
+                </Typography>
+              </>
             )}
             <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
               Click to flip back
