@@ -14,7 +14,7 @@ import {
   Paper
 } from '@mui/material';
 import { Flashcard } from './components/Flashcard';
-import { flashcards } from './data/flashcards';
+import { allFlashcards as flashcards } from './data/flashcards/index';
 
 function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
