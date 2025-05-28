@@ -962,6 +962,436 @@ export const flashcards: Flashcard[] = [
       en: "One of the most prestigious high schools in Vietnam, known for its academic excellence and specialized programs.",
       vi: "Một trong những trường trung học phổ thông uy tín nhất Việt Nam, nổi tiếng với thành tích học tập xuất sắc và các chương trình chuyên biệt."
     }
+  },
+  // District 11 - Markets and Local Culture
+  {
+    id: 56,
+    question: {
+      en: "Where is the Phu Tho Sports Complex located?",
+      vi: "Khu liên hợp thể thao Phú Thọ nằm ở đâu?"
+    },
+    answer: {
+      en: "District 11",
+      vi: "Quận 11"
+    },
+    category: "place",
+    district: "District 11",
+    additionalInfo: {
+      en: "A major sports complex featuring a stadium, swimming pool, and various sports facilities. It hosts many local and national sporting events.",
+      vi: "Một khu liên hợp thể thao lớn có sân vận động, bể bơi và nhiều cơ sở thể thao. Nơi đây tổ chức nhiều sự kiện thể thao địa phương và quốc gia."
+    }
+  },
+  {
+    id: 57,
+    question: {
+      en: "Which district is the Phu Tho Racecourse in?",
+      vi: "Trường đua Phú Thọ nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 11",
+      vi: "Quận 11"
+    },
+    category: "place",
+    district: "District 11",
+    additionalInfo: {
+      en: "A historic horse racing track that has been converted into a sports and entertainment complex, hosting various events and activities.",
+      vi: "Một trường đua ngựa lịch sử đã được chuyển đổi thành khu liên hợp thể thao và giải trí, tổ chức nhiều sự kiện và hoạt động khác nhau."
+    }
+  },
+  {
+    id: 58,
+    question: {
+      en: "Where is the Phu Tho Market located?",
+      vi: "Chợ Phú Thọ nằm ở đâu?"
+    },
+    answer: {
+      en: "District 11",
+      vi: "Quận 11"
+    },
+    category: "place",
+    district: "District 11",
+    additionalInfo: {
+      en: "A traditional local market known for its fresh produce, seafood, and daily necessities, serving the local community.",
+      vi: "Một chợ truyền thống địa phương nổi tiếng với thực phẩm tươi, hải sản và các nhu yếu phẩm hàng ngày, phục vụ cộng đồng địa phương."
+    }
+  },
+  {
+    id: 59,
+    question: {
+      en: "Which district is the Phu Tho Cultural Center in?",
+      vi: "Trung tâm Văn hóa Phú Thọ nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 11",
+      vi: "Quận 11"
+    },
+    category: "place",
+    district: "District 11",
+    additionalInfo: {
+      en: "A community center hosting cultural events, performances, and activities for local residents.",
+      vi: "Một trung tâm cộng đồng tổ chức các sự kiện văn hóa, biểu diễn và hoạt động cho cư dân địa phương."
+    }
+  },
+  {
+    id: 60,
+    question: {
+      en: "Where is the Phu Tho Park located?",
+      vi: "Công viên Phú Thọ nằm ở đâu?"
+    },
+    answer: {
+      en: "District 11",
+      vi: "Quận 11"
+    },
+    category: "place",
+    district: "District 11",
+    additionalInfo: {
+      en: "A popular local park offering recreational facilities, green spaces, and a peaceful environment for the community.",
+      vi: "Một công viên địa phương phổ biến cung cấp các cơ sở giải trí, không gian xanh và môi trường yên bình cho cộng đồng."
+    }
+  },
+  // District 12 - Industrial and Residential Areas
+  {
+    id: 61,
+    question: {
+      en: "Where is the Tan Thoi Nhat Industrial Park located?",
+      vi: "Khu công nghiệp Tân Thới Nhất nằm ở đâu?"
+    },
+    answer: {
+      en: "District 12",
+      vi: "Quận 12"
+    },
+    category: "place",
+    district: "District 12",
+    additionalInfo: {
+      en: "A major industrial park housing various manufacturing and processing facilities, contributing to the city's industrial development.",
+      vi: "Một khu công nghiệp lớn tập trung nhiều cơ sở sản xuất và chế biến, đóng góp vào sự phát triển công nghiệp của thành phố."
+    }
+  },
+  {
+    id: 62,
+    question: {
+      en: "Which district is the Tan Thoi Nhat Market in?",
+      vi: "Chợ Tân Thới Nhất nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 12",
+      vi: "Quận 12"
+    },
+    category: "place",
+    district: "District 12",
+    additionalInfo: {
+      en: "A traditional local market serving the community with fresh produce, household goods, and daily necessities.",
+      vi: "Một chợ truyền thống địa phương phục vụ cộng đồng với thực phẩm tươi, hàng gia dụng và các nhu yếu phẩm hàng ngày."
+    }
+  },
+  {
+    id: 63,
+    question: {
+      en: "Where is the Tan Thoi Nhat Cultural Center located?",
+      vi: "Trung tâm Văn hóa Tân Thới Nhất nằm ở đâu?"
+    },
+    answer: {
+      en: "District 12",
+      vi: "Quận 12"
+    },
+    category: "place",
+    district: "District 12",
+    additionalInfo: {
+      en: "A community center organizing cultural events, performances, and activities for local residents.",
+      vi: "Một trung tâm cộng đồng tổ chức các sự kiện văn hóa, biểu diễn và hoạt động cho cư dân địa phương."
+    }
+  },
+  {
+    id: 64,
+    question: {
+      en: "Which district is the Tan Thoi Nhat Park in?",
+      vi: "Công viên Tân Thới Nhất nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 12",
+      vi: "Quận 12"
+    },
+    category: "place",
+    district: "District 12",
+    additionalInfo: {
+      en: "A local park providing recreational facilities and green spaces for the community.",
+      vi: "Một công viên địa phương cung cấp các cơ sở giải trí và không gian xanh cho cộng đồng."
+    }
+  },
+  {
+    id: 65,
+    question: {
+      en: "Where is the Tan Thoi Nhat Residential Area located?",
+      vi: "Khu dân cư Tân Thới Nhất nằm ở đâu?"
+    },
+    answer: {
+      en: "District 12",
+      vi: "Quận 12"
+    },
+    category: "place",
+    district: "District 12",
+    additionalInfo: {
+      en: "A residential area featuring modern housing developments and community facilities.",
+      vi: "Một khu dân cư với các dự án nhà ở hiện đại và cơ sở cộng đồng."
+    }
+  },
+  // District 13 (Binh Thanh) - Cultural and Educational Sites
+  {
+    id: 66,
+    question: {
+      en: "Where is the Ho Chi Minh City University of Architecture located?",
+      vi: "Đại học Kiến trúc Thành phố Hồ Chí Minh nằm ở đâu?"
+    },
+    answer: {
+      en: "District 13 (Binh Thanh)",
+      vi: "Quận 13 (Bình Thạnh)"
+    },
+    category: "place",
+    district: "District 13",
+    additionalInfo: {
+      en: "A prestigious university specializing in architecture and urban planning education.",
+      vi: "Một trường đại học uy tín chuyên về đào tạo kiến trúc và quy hoạch đô thị."
+    }
+  },
+  {
+    id: 67,
+    question: {
+      en: "Which district is the Landmark 81 Tower in?",
+      vi: "Tòa nhà Landmark 81 nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 13 (Binh Thanh)",
+      vi: "Quận 13 (Bình Thạnh)"
+    },
+    category: "place",
+    district: "District 13",
+    additionalInfo: {
+      en: "The tallest building in Vietnam, standing at 461.2 meters with 81 floors. It's part of the Vinhomes Central Park complex.",
+      vi: "Tòa nhà cao nhất Việt Nam, cao 461,2 mét với 81 tầng. Đây là một phần của khu phức hợp Vinhomes Central Park."
+    }
+  },
+  {
+    id: 68,
+    question: {
+      en: "Where is the Vinhomes Central Park located?",
+      vi: "Khu đô thị Vinhomes Central Park nằm ở đâu?"
+    },
+    answer: {
+      en: "District 13 (Binh Thanh)",
+      vi: "Quận 13 (Bình Thạnh)"
+    },
+    category: "place",
+    district: "District 13",
+    additionalInfo: {
+      en: "A modern urban complex featuring luxury apartments, shopping centers, and the iconic Landmark 81 tower.",
+      vi: "Một khu đô thị hiện đại với các căn hộ cao cấp, trung tâm thương mại và tòa nhà Landmark 81 biểu tượng."
+    }
+  },
+  {
+    id: 69,
+    question: {
+      en: "Which district is the Binh Thanh Market in?",
+      vi: "Chợ Bình Thạnh nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 13 (Binh Thanh)",
+      vi: "Quận 13 (Bình Thạnh)"
+    },
+    category: "place",
+    district: "District 13",
+    additionalInfo: {
+      en: "A traditional local market known for its fresh produce, seafood, and daily necessities.",
+      vi: "Một chợ truyền thống địa phương nổi tiếng với thực phẩm tươi, hải sản và các nhu yếu phẩm hàng ngày."
+    }
+  },
+  {
+    id: 70,
+    question: {
+      en: "Where is the Binh Thanh Cultural Center located?",
+      vi: "Trung tâm Văn hóa Bình Thạnh nằm ở đâu?"
+    },
+    answer: {
+      en: "District 13 (Binh Thanh)",
+      vi: "Quận 13 (Bình Thạnh)"
+    },
+    category: "place",
+    district: "District 13",
+    additionalInfo: {
+      en: "A community center hosting cultural events, performances, and activities for local residents.",
+      vi: "Một trung tâm cộng đồng tổ chức các sự kiện văn hóa, biểu diễn và hoạt động cho cư dân địa phương."
+    }
+  },
+  // District 14 (Go Vap) - Markets and Local Culture
+  {
+    id: 71,
+    question: {
+      en: "Where is the Go Vap Market located?",
+      vi: "Chợ Gò Vấp nằm ở đâu?"
+    },
+    answer: {
+      en: "District 14 (Go Vap)",
+      vi: "Quận 14 (Gò Vấp)"
+    },
+    category: "place",
+    district: "District 14",
+    additionalInfo: {
+      en: "One of the largest traditional markets in Ho Chi Minh City, known for its wide variety of goods and authentic atmosphere.",
+      vi: "Một trong những chợ truyền thống lớn nhất Thành phố Hồ Chí Minh, nổi tiếng với nhiều loại hàng hóa và không khí đích thực."
+    }
+  },
+  {
+    id: 72,
+    question: {
+      en: "Which district is the Go Vap Cultural Center in?",
+      vi: "Trung tâm Văn hóa Gò Vấp nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 14 (Go Vap)",
+      vi: "Quận 14 (Gò Vấp)"
+    },
+    category: "place",
+    district: "District 14",
+    additionalInfo: {
+      en: "A community center organizing cultural events, performances, and activities for local residents.",
+      vi: "Một trung tâm cộng đồng tổ chức các sự kiện văn hóa, biểu diễn và hoạt động cho cư dân địa phương."
+    }
+  },
+  {
+    id: 73,
+    question: {
+      en: "Where is the Go Vap Park located?",
+      vi: "Công viên Gò Vấp nằm ở đâu?"
+    },
+    answer: {
+      en: "District 14 (Go Vap)",
+      vi: "Quận 14 (Gò Vấp)"
+    },
+    category: "place",
+    district: "District 14",
+    additionalInfo: {
+      en: "A popular local park offering recreational facilities and green spaces for the community.",
+      vi: "Một công viên địa phương phổ biến cung cấp các cơ sở giải trí và không gian xanh cho cộng đồng."
+    }
+  },
+  {
+    id: 74,
+    question: {
+      en: "Which district is the Go Vap Stadium in?",
+      vi: "Sân vận động Gò Vấp nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 14 (Go Vap)",
+      vi: "Quận 14 (Gò Vấp)"
+    },
+    category: "place",
+    district: "District 14",
+    additionalInfo: {
+      en: "A sports facility hosting various sporting events and activities for the local community.",
+      vi: "Một cơ sở thể thao tổ chức các sự kiện và hoạt động thể thao cho cộng đồng địa phương."
+    }
+  },
+  {
+    id: 75,
+    question: {
+      en: "Where is the Go Vap Residential Area located?",
+      vi: "Khu dân cư Gò Vấp nằm ở đâu?"
+    },
+    answer: {
+      en: "District 14 (Go Vap)",
+      vi: "Quận 14 (Gò Vấp)"
+    },
+    category: "place",
+    district: "District 14",
+    additionalInfo: {
+      en: "A residential area featuring a mix of traditional and modern housing developments.",
+      vi: "Một khu dân cư với sự kết hợp giữa các dự án nhà ở truyền thống và hiện đại."
+    }
+  },
+  // District 15 (Phu Nhuan) - Shopping and Entertainment
+  {
+    id: 76,
+    question: {
+      en: "Where is the Aeon Mall Tan Phu located?",
+      vi: "Trung tâm thương mại Aeon Mall Tân Phú nằm ở đâu?"
+    },
+    answer: {
+      en: "District 15 (Phu Nhuan)",
+      vi: "Quận 15 (Phú Nhuận)"
+    },
+    category: "place",
+    district: "District 15",
+    additionalInfo: {
+      en: "A modern shopping mall featuring international brands, entertainment facilities, and dining options.",
+      vi: "Một trung tâm thương mại hiện đại với các thương hiệu quốc tế, cơ sở giải trí và nhà hàng."
+    }
+  },
+  {
+    id: 77,
+    question: {
+      en: "Which district is the Phu Nhuan Market in?",
+      vi: "Chợ Phú Nhuận nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 15 (Phu Nhuan)",
+      vi: "Quận 15 (Phú Nhuận)"
+    },
+    category: "place",
+    district: "District 15",
+    additionalInfo: {
+      en: "A traditional local market known for its fresh produce, clothing, and household goods.",
+      vi: "Một chợ truyền thống địa phương nổi tiếng với thực phẩm tươi, quần áo và hàng gia dụng."
+    }
+  },
+  {
+    id: 78,
+    question: {
+      en: "Where is the Phu Nhuan Cultural Center located?",
+      vi: "Trung tâm Văn hóa Phú Nhuận nằm ở đâu?"
+    },
+    answer: {
+      en: "District 15 (Phu Nhuan)",
+      vi: "Quận 15 (Phú Nhuận)"
+    },
+    category: "place",
+    district: "District 15",
+    additionalInfo: {
+      en: "A community center hosting cultural events, performances, and activities for local residents.",
+      vi: "Một trung tâm cộng đồng tổ chức các sự kiện văn hóa, biểu diễn và hoạt động cho cư dân địa phương."
+    }
+  },
+  {
+    id: 79,
+    question: {
+      en: "Which district is the Phu Nhuan Park in?",
+      vi: "Công viên Phú Nhuận nằm ở quận nào?"
+    },
+    answer: {
+      en: "District 15 (Phu Nhuan)",
+      vi: "Quận 15 (Phú Nhuận)"
+    },
+    category: "place",
+    district: "District 15",
+    additionalInfo: {
+      en: "A local park providing recreational facilities and green spaces for the community.",
+      vi: "Một công viên địa phương cung cấp các cơ sở giải trí và không gian xanh cho cộng đồng."
+    }
+  },
+  {
+    id: 80,
+    question: {
+      en: "Where is the Phu Nhuan Residential Area located?",
+      vi: "Khu dân cư Phú Nhuận nằm ở đâu?"
+    },
+    answer: {
+      en: "District 15 (Phu Nhuan)",
+      vi: "Quận 15 (Phú Nhuận)"
+    },
+    category: "place",
+    district: "District 15",
+    additionalInfo: {
+      en: "A residential area featuring a mix of traditional and modern housing developments.",
+      vi: "Một khu dân cư với sự kết hợp giữa các dự án nhà ở truyền thống và hiện đại."
+    }
   }
-  // ... continuing with more flashcards, each with both English and Vietnamese text
+  // ... continuing with more flashcards
 ];

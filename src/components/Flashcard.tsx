@@ -19,9 +19,9 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
       sx={{
         perspective: '1000px',
         width: '100%',
-        maxWidth: '400px',
-        height: '250px',
-        margin: '20px auto',
+        maxWidth: '600px',
+        height: '350px',
+        margin: '0 auto',
         cursor: 'pointer',
       }}
       onClick={flipCard}
@@ -49,16 +49,17 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
             justifyContent: 'center',
             backgroundColor: '#f5f5f5',
             boxShadow: 3,
+            padding: '20px',
           }}
         >
-          <CardContent>
-            <Typography variant="h5" component="div" align="center">
+          <CardContent sx={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+            <Typography variant="h4" component="div" align="center" sx={{ mb: 2 }}>
               {flashcard.question.en}
             </Typography>
-            <Typography variant="subtitle1" component="div" align="center" sx={{ mt: 1, color: 'text.secondary' }}>
+            <Typography variant="h6" component="div" align="center" sx={{ mb: 3, color: 'text.secondary' }}>
               {flashcard.question.vi}
             </Typography>
-            <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
+            <Typography variant="body1" color="text.secondary" align="center" sx={{ mt: 'auto' }}>
               Click to see answer
             </Typography>
           </CardContent>
@@ -77,26 +78,27 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
             justifyContent: 'center',
             backgroundColor: '#e3f2fd',
             boxShadow: 3,
+            padding: '20px',
           }}
         >
-          <CardContent>
-            <Typography variant="h5" component="div" align="center">
+          <CardContent sx={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+            <Typography variant="h4" component="div" align="center" sx={{ mb: 2 }}>
               {flashcard.answer.en}
             </Typography>
-            <Typography variant="subtitle1" component="div" align="center" sx={{ mt: 1, color: 'text.secondary' }}>
+            <Typography variant="h6" component="div" align="center" sx={{ mb: 3, color: 'text.secondary' }}>
               {flashcard.answer.vi}
             </Typography>
             {flashcard.additionalInfo && (
               <>
-                <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
+                <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 1 }}>
                   {flashcard.additionalInfo.en}
                 </Typography>
-                <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 1 }}>
+                <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 2 }}>
                   {flashcard.additionalInfo.vi}
                 </Typography>
               </>
             )}
-            <Typography variant="body2" color="text.secondary" align="center" sx={{ mt: 2 }}>
+            <Typography variant="body1" color="text.secondary" align="center" sx={{ mt: 'auto' }}>
               Click to flip back
             </Typography>
           </CardContent>

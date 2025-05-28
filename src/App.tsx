@@ -88,7 +88,7 @@ function App() {
         {filteredCards.length > 0 ? (
           <>
             <Flashcard flashcard={filteredCards[currentIndex]} />
-            <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2, mt: 2 }}>
+            <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2, mt: 6, mb: 4 }}>
               <Button 
                 variant="contained" 
                 onClick={handlePrevious}
