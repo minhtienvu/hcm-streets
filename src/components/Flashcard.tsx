@@ -19,8 +19,8 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
       sx={{
         perspective: '1000px',
         width: '100%',
-        maxWidth: '600px',
-        height: '350px',
+        maxWidth: '1000px',
+        height: '500px',
         margin: '0 auto',
         cursor: 'pointer',
       }}
@@ -90,12 +90,12 @@ export const Flashcard: React.FC<FlashcardProps> = ({ flashcard }) => {
             </Typography>
             {flashcard.additionalInfo && (
               <>
-                <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 1 }}>
+                {/* <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 1 }}>
                   {flashcard.additionalInfo.en}
                 </Typography>
                 <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 2 }}>
                   {flashcard.additionalInfo.vi}
-                </Typography>
+                </Typography> */}
               </>
             )}
             <Typography variant="body1" color="text.secondary" align="center" sx={{ mt: 'auto' }}>

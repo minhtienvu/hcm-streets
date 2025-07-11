@@ -8,8 +8,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm lớn nhất ở Quận 1 là gì?"
     },
     answer: {
-      en: "Vincom Center",
-      vi: "Vincom Center"
+      en: "Vincom Center is the largest shopping mall in District 1. A modern shopping complex with luxury brands, restaurants, and entertainment facilities, it serves as a premier destination for shopping and dining in the heart of the city.",
+      vi: "Vincom Center là trung tâm mua sắm lớn nhất ở Quận 1. Một khu phức hợp mua sắm hiện đại với các thương hiệu cao cấp, nhà hàng và khu giải trí, phục vụ như điểm đến hàng đầu cho mua sắm và ăn uống ở trung tâm thành phố."
     },
     category: "place",
     district: "District 1",
@@ -25,8 +25,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về mua sắm điện tử ở Quận 1 là gì?"
     },
     answer: {
-      en: "Nguyen Kim Street",
-      vi: "Đường Nguyễn Kim"
+      en: "Nguyen Kim Street is the most famous street for electronics shopping in District 1. Known for its concentration of electronics stores and computer shops, it's a technology hub for consumers seeking electronic goods and accessories.",
+      vi: "Đường Nguyễn Kim là con phố nổi tiếng nhất về mua sắm điện tử ở Quận 1. Nổi tiếng với sự tập trung của các cửa hàng điện tử và máy tính, đây là trung tâm công nghệ cho người tiêu dùng tìm kiếm hàng điện tử và phụ kiện."
     },
     category: "street",
     district: "District 1",
@@ -42,8 +42,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về các thương hiệu thời trang cao cấp ở Quận 1 là gì?"
     },
     answer: {
-      en: "Dong Khoi Street",
-      vi: "Đường Đồng Khởi"
+      en: "Dong Khoi Street is the most famous street for luxury fashion brands in District 1. Home to international luxury brands like Louis Vuitton, Gucci, and Chanel, it's the city's premier shopping destination for high-end fashion.",
+      vi: "Đường Đồng Khởi là con phố nổi tiếng nhất về các thương hiệu thời trang cao cấp ở Quận 1. Nơi có các thương hiệu xa xỉ quốc tế như Louis Vuitton, Gucci và Chanel, đây là điểm đến mua sắm hàng đầu của thành phố cho thời trang cao cấp."
     },
     category: "street",
     district: "District 1",
@@ -59,8 +59,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm nào ở Quận 1 nổi tiếng với khu vườn trên mái?"
     },
     answer: {
-      en: "Saigon Centre",
-      vi: "Saigon Centre"
+      en: "Saigon Centre is the shopping mall in District 1 known for its rooftop garden. Features a beautiful rooftop garden with city views and restaurants, it provides a unique green space above the bustling shopping center.",
+      vi: "Saigon Centre là trung tâm mua sắm ở Quận 1 nổi tiếng với khu vườn trên mái. Có khu vườn trên mái đẹp với view thành phố và nhà hàng, mang đến không gian xanh độc đáo trên trung tâm mua sắm nhộn nhịp."
     },
     category: "place",
     district: "District 1",
@@ -76,8 +76,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về cửa hàng lưu niệm ở Quận 1 là gì?"
     },
     answer: {
-      en: "Dong Khoi Street",
-      vi: "Đường Đồng Khởi"
+      en: "Dong Khoi Street is the most famous street for souvenir shops in District 1. Known for its traditional Vietnamese handicrafts and souvenir shops, it's a popular destination for tourists seeking authentic Vietnamese gifts.",
+      vi: "Đường Đồng Khởi là con phố nổi tiếng nhất về cửa hàng lưu niệm ở Quận 1. Nổi tiếng với các cửa hàng thủ công mỹ nghệ và lưu niệm truyền thống Việt Nam, đây là điểm đến phổ biến cho du khách tìm kiếm quà tặng Việt Nam chính thống."
     },
     category: "street",
     district: "District 1",
@@ -93,8 +93,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm nào ở Quận 1 có rạp chiếu phim lớn nhất?"
     },
     answer: {
-      en: "Vincom Center Landmark 81",
-      vi: "Vincom Center Landmark 81"
+      en: "Vincom Center Landmark 81 has the largest cinema complex in District 1. Features a modern cinema complex with multiple screens and premium seating, it offers the latest movie experiences with advanced technology.",
+      vi: "Vincom Center Landmark 81 có rạp chiếu phim lớn nhất ở Quận 1. Có khu phức hợp rạp chiếu phim hiện đại với nhiều màn hình và ghế ngồi cao cấp, mang đến trải nghiệm điện ảnh mới nhất với công nghệ tiên tiến."
     },
     category: "place",
     district: "District 1",
@@ -110,8 +110,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về quán cà phê ở Quận 1 là gì?"
     },
     answer: {
-      en: "Nguyen Hue Street",
-      vi: "Đường Nguyễn Huệ"
+      en: "Nguyen Hue Street is the most famous street for coffee shops in District 1. Known for its concentration of modern cafes and traditional coffee shops, it's a vibrant coffee culture destination in the city center.",
+      vi: "Đường Nguyễn Huệ là con phố nổi tiếng nhất về quán cà phê ở Quận 1. Nổi tiếng với sự tập trung của các quán cà phê hiện đại và truyền thống, đây là điểm đến văn hóa cà phê sôi động ở trung tâm thành phố."
     },
     category: "street",
     district: "District 1",
@@ -127,8 +127,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm nào ở Quận 1 nổi tiếng với khu ẩm thực?"
     },
     answer: {
-      en: "Takashimaya Vietnam",
-      vi: "Takashimaya Việt Nam"
+      en: "Takashimaya Vietnam is the shopping mall in District 1 known for its food court. Features a Japanese-style food court with various international cuisines, it provides a premium dining experience with diverse culinary options.",
+      vi: "Takashimaya Việt Nam là trung tâm mua sắm ở Quận 1 nổi tiếng với khu ẩm thực. Có khu ẩm thực kiểu Nhật với nhiều món ăn quốc tế, mang đến trải nghiệm ăn uống cao cấp với các lựa chọn ẩm thực đa dạng."
     },
     category: "place",
     district: "District 1",
@@ -144,8 +144,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về cửa hàng trang sức ở Quận 1 là gì?"
     },
     answer: {
-      en: "Le Loi Street",
-      vi: "Đường Lê Lợi"
+      en: "Le Loi Street is the most famous street for jewelry shops in District 1. Known for its high-end jewelry stores and luxury watch shops, it's the premier destination for fine jewelry and precious accessories.",
+      vi: "Đường Lê Lợi là con phố nổi tiếng nhất về cửa hàng trang sức ở Quận 1. Nổi tiếng với các cửa hàng trang sức cao cấp và đồng hồ xa xỉ, đây là điểm đến hàng đầu cho trang sức cao cấp và phụ kiện quý hiếm."
     },
     category: "street",
     district: "District 1",
@@ -161,8 +161,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm nào ở Quận 1 có siêu thị lớn nhất?"
     },
     answer: {
-      en: "Saigon Centre",
-      vi: "Saigon Centre"
+      en: "Saigon Centre has the largest supermarket in District 1. Home to a large Japanese supermarket with imported goods, it provides a comprehensive shopping experience with both local and international products.",
+      vi: "Saigon Centre có siêu thị lớn nhất ở Quận 1. Có siêu thị Nhật Bản lớn với nhiều hàng nhập khẩu, mang đến trải nghiệm mua sắm toàn diện với sản phẩm địa phương và quốc tế."
     },
     category: "place",
     district: "District 1",
@@ -178,8 +178,8 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Con phố nổi tiếng nhất về cửa hàng máy ảnh ở Quận 1 là gì?"
     },
     answer: {
-      en: "Le Loi Street",
-      vi: "Đường Lê Lợi"
+      en: "Le Loi Street is the most famous street for camera shops in District 1. Known for its concentration of camera shops and photography equipment stores, it's a hub for photography enthusiasts and professionals.",
+      vi: "Đường Lê Lợi là con phố nổi tiếng nhất về cửa hàng máy ảnh ở Quận 1. Nổi tiếng với sự tập trung của các cửa hàng máy ảnh và thiết bị nhiếp ảnh, đây là trung tâm cho những người đam mê và chuyên nghiệp về nhiếp ảnh."
     },
     category: "street",
     district: "District 1",
@@ -195,14 +195,14 @@ export const flashcards_201_300: Flashcard[] = [
       vi: "Trung tâm mua sắm nào ở Quận 1 nổi tiếng với các thương hiệu Hàn Quốc?"
     },
     answer: {
-      en: "Lotte Mart",
-      vi: "Lotte Mart"
+      en: "Lotte Mart is the shopping mall in District 1 known for its Korean brands. Features Korean brands and products popular with local consumers, it brings K-culture and Korean lifestyle to Vietnamese shoppers.",
+      vi: "Lotte Mart là trung tâm mua sắm ở Quận 1 nổi tiếng với các thương hiệu Hàn Quốc. Có các thương hiệu và sản phẩm Hàn Quốc được người tiêu dùng địa phương ưa chuộng, mang văn hóa K và lối sống Hàn Quốc đến người mua sắm Việt Nam."
     },
     category: "place",
     district: "District 1",
     additionalInfo: {
-      en: "Features popular Korean brands and a Korean-style supermarket",
-      vi: "Có các thương hiệu Hàn Quốc phổ biến và siêu thị kiểu Hàn Quốc"
+      en: "Features Korean brands and products popular with local consumers",
+      vi: "Có các thương hiệu và sản phẩm Hàn Quốc được người tiêu dùng địa phương ưa chuộng"
     }
   },
   {

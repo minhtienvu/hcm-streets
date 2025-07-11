@@ -25,8 +25,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Chợ Bến Thành nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "Ben Thanh Market is located in District 1, one of the oldest surviving structures in Ho Chi Minh City. Built in 1912, it features the iconic clock tower and serves as a major tourist destination and cultural landmark.",
+      vi: "Chợ Bến Thành nằm ở Quận 1, là một trong những công trình cổ nhất còn sót lại ở Thành phố Hồ Chí Minh. Được xây dựng năm 1912, có tháp đồng hồ biểu tượng và là điểm du lịch và di tích văn hóa quan trọng."
     },
     category: "place",
     district: "District 1",
@@ -42,8 +42,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Phố đi bộ Nguyễn Huệ nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "Nguyen Hue Walking Street is located in District 1, in the heart of Ho Chi Minh City. Originally a canal before being filled in 1887, it's now a famous pedestrian street and cultural hub.",
+      vi: "Phố đi bộ Nguyễn Huệ nằm ở Quận 1, trung tâm Thành phố Hồ Chí Minh. Ban đầu là một con kênh trước khi được lấp vào năm 1887, hiện là phố đi bộ nổi tiếng và trung tâm văn hóa."
     },
     category: "street",
     district: "District 1",
@@ -59,8 +59,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Nhà thờ Đức Bà Sài Gòn nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Notre-Dame Cathedral Basilica of Saigon is located in District 1. Built between 1863 and 1880, it's one of the most iconic landmarks in the city, with bricks imported from Marseille, France.",
+      vi: "Nhà thờ Đức Bà Sài Gòn nằm ở Quận 1. Được xây dựng từ năm 1863 đến 1880, là một trong những biểu tượng nổi tiếng nhất của thành phố, với gạch được nhập khẩu từ Marseille, Pháp."
     },
     category: "place",
     district: "District 1",
@@ -76,8 +76,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Bưu điện Trung tâm Sài Gòn nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Central Post Office is located in District 1. Built between 1886-1891 and designed by Gustave Eiffel, it's one of the oldest buildings in Ho Chi Minh City featuring Gothic and Renaissance architecture.",
+      vi: "Bưu điện Trung tâm Sài Gòn nằm ở Quận 1. Được xây dựng từ năm 1886-1891 và thiết kế bởi Gustave Eiffel, là một trong những tòa nhà cổ nhất ở Thành phố Hồ Chí Minh với kiến trúc Gothic và Phục hưng."
     },
     category: "place",
     district: "District 1",
@@ -93,8 +93,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Đường Đồng Khởi nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "Dong Khoi Street is located in District 1, one of the most famous shopping streets in the city. Known for its luxury boutiques, it was originally called Rue Catinat during French colonial times.",
+      vi: "Đường Đồng Khởi nằm ở Quận 1, một trong những con phố mua sắm nổi tiếng nhất thành phố. Nổi tiếng với các cửa hàng thời trang cao cấp, thời Pháp thuộc có tên là Rue Catinat."
     },
     category: "street",
     district: "District 1",
@@ -110,8 +110,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Dinh Độc Lập nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Reunification Palace is located in District 1. Formerly known as Independence Palace, it was the historic site where the Vietnam War ended in 1975 when a North Vietnamese tank crashed through its gates.",
+      vi: "Dinh Độc Lập nằm ở Quận 1. Trước đây được gọi là Dinh Độc Lập, là nơi lịch sử đánh dấu kết thúc Chiến tranh Việt Nam năm 1975 khi xe tăng Bắc Việt đâm vào cổng."
     },
     category: "place",
     district: "District 1",
@@ -127,8 +127,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Ho Chi Minh City Museum of Fine Arts is located in District 1. Housed in a beautiful colonial building from 1929, it showcases Vietnamese art from different periods.",
+      vi: "Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh nằm ở Quận 1. Được đặt trong tòa nhà thuộc địa đẹp từ năm 1929, trưng bày nghệ thuật Việt Nam qua các thời kỳ."
     },
     category: "place",
     district: "District 1",
@@ -144,8 +144,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Nhà hát Thành phố Hồ Chí Minh nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Opera House is located in District 1. Built in 1897, it's one of the most beautiful examples of French colonial architecture in the city and a major cultural venue.",
+      vi: "Nhà hát Thành phố Hồ Chí Minh nằm ở Quận 1. Được xây dựng năm 1897, là một trong những ví dụ đẹp nhất về kiến trúc thuộc địa Pháp trong thành phố và là địa điểm văn hóa quan trọng."
     },
     category: "place",
     district: "District 1",
@@ -161,8 +161,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Tòa nhà Bitexco Financial Tower nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Bitexco Financial Tower is located in District 1. Completed in 2010, it was the tallest building in Vietnam until 2018, with a design inspired by a lotus bud.",
+      vi: "Tòa nhà Bitexco Financial Tower nằm ở Quận 1. Hoàn thành năm 2010, là tòa nhà cao nhất Việt Nam cho đến năm 2018, với thiết kế lấy cảm hứng từ nụ sen."
     },
     category: "place",
     district: "District 1",
@@ -178,8 +178,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Trung tâm thương mại Saigon Centre nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Centre is located in District 1. It's a modern shopping complex that combines traditional Vietnamese architecture with contemporary design, offering luxury shopping and dining experiences.",
+      vi: "Trung tâm thương mại Saigon Centre nằm ở Quận 1. Là khu phức hợp mua sắm hiện đại kết hợp kiến trúc truyền thống Việt Nam với thiết kế đương đại, mang đến trải nghiệm mua sắm và ẩm thực cao cấp."
     },
     category: "place",
     district: "District 1",
@@ -195,8 +195,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Bưu điện Trung tâm Sài Gòn nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Central Post Office is located in District 1, a beautiful French colonial building designed by Gustave Eiffel, still functioning as a post office today and one of the most photographed landmarks in the city.",
+      vi: "Bưu điện Trung tâm Sài Gòn nằm ở Quận 1, là tòa nhà thuộc địa Pháp đẹp được thiết kế bởi Gustave Eiffel, vẫn hoạt động như một bưu điện ngày nay và là một trong những địa danh được chụp hình nhiều nhất thành phố."
     },
     category: "place",
     district: "District 1",
@@ -212,8 +212,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Nhà thờ Đức Bà nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Notre Dame Cathedral is located in District 1, built between 1863 and 1880, it's one of the most iconic landmarks in Ho Chi Minh City and a masterpiece of French colonial architecture.",
+      vi: "Nhà thờ Đức Bà nằm ở Quận 1, được xây dựng từ năm 1863 đến 1880, đây là một trong những địa danh mang tính biểu tượng nhất của Thành phố Hồ Chí Minh và là kiệt tác kiến trúc thuộc địa Pháp."
     },
     category: "place",
     district: "District 1",
@@ -229,8 +229,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Bảo tàng Chứng tích Chiến tranh nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The War Remnants Museum is located in District 1, formerly known as the Museum of American War Crimes, it documents the Vietnam War from a Vietnamese perspective and is one of the most visited museums in the city.",
+      vi: "Bảo tàng Chứng tích Chiến tranh nằm ở Quận 1, trước đây được gọi là Bảo tàng Tội ác Chiến tranh Mỹ, nơi đây ghi lại Chiến tranh Việt Nam từ góc nhìn của người Việt Nam và là một trong những bảo tàng được thăm nhiều nhất thành phố."
     },
     category: "place",
     district: "District 1",
@@ -246,8 +246,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Nhà hát Thành phố nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Opera House is located in District 1, built in 1897, it's one of the most beautiful examples of French colonial architecture in Vietnam and hosts world-class performances.",
+      vi: "Nhà hát Thành phố nằm ở Quận 1, được xây dựng năm 1897, đây là một trong những ví dụ đẹp nhất về kiến trúc thuộc địa Pháp tại Việt Nam và tổ chức các buổi biểu diễn đẳng cấp thế giới."
     },
     category: "place",
     district: "District 1",
@@ -263,8 +263,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Trụ sở Ủy ban Nhân dân Thành phố nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The People's Committee Building is located in District 1, formerly the Hotel de Ville, it's a beautiful French colonial building that serves as the city's government headquarters and is illuminated beautifully at night.",
+      vi: "Trụ sở Ủy ban Nhân dân Thành phố nằm ở Quận 1, trước đây là Hotel de Ville, đây là tòa nhà thuộc địa Pháp đẹp đẽ phục vụ như trụ sở chính quyền thành phố và được chiếu sáng đẹp mắt vào ban đêm."
     },
     category: "place",
     district: "District 1",
@@ -280,8 +280,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Đền Hindu Mariamman nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Mariamman Hindu Temple is located in District 1, built in the late 19th century, it's the only Hindu temple in Ho Chi Minh City and a colorful spiritual center for the local Indian community.",
+      vi: "Đền Hindu Mariamman nằm ở Quận 1, được xây dựng vào cuối thế kỷ 19, đây là ngôi đền Hindu duy nhất tại Thành phố Hồ Chí Minh và là trung tâm tâm linh đầy màu sắc cho cộng đồng người Ấn Độ địa phương."
     },
     category: "place",
     district: "District 1",
@@ -297,8 +297,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Chùa Bà Thiên Hậu nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Thien Hau Temple is located in District 1, built in 1760, it's one of the oldest Chinese temples in the city, dedicated to the sea goddess Mazu and remains an important spiritual center for the Chinese community.",
+      vi: "Chùa Bà Thiên Hậu nằm ở Quận 1, được xây dựng năm 1760, đây là một trong những ngôi chùa Trung Hoa cổ nhất thành phố, thờ nữ thần biển Mazu và vẫn là trung tâm tâm linh quan trọng cho cộng đồng người Hoa."
     },
     category: "place",
     district: "District 1",
@@ -314,8 +314,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Chùa Ngọc Hoàng nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Jade Emperor Pagoda is located in District 1, built in 1909, it's one of the most atmospheric temples in the city, dedicated to the Jade Emperor and known for its mystical incense-filled interior.",
+      vi: "Chùa Ngọc Hoàng nằm ở Quận 1, được xây dựng năm 1909, đây là một trong những ngôi chùa có không khí nhất thành phố, thờ Ngọc Hoàng và nổi tiếng với nội thất huyền bí đầy khói hương."
     },
     category: "place",
     district: "District 1",
@@ -331,8 +331,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Thảo Cầm Viên Sài Gòn nằm ở đâu?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Saigon Zoo and Botanical Gardens is located in District 1, established in 1865, it's one of the oldest zoos in the world and the largest in Vietnam, home to over 125 species of animals.",
+      vi: "Thảo Cầm Viên Sài Gòn nằm ở Quận 1, được thành lập năm 1865, đây là một trong những vườn thú lâu đời nhất thế giới và lớn nhất Việt Nam, là nhà của hơn 125 loài động vật."
     },
     category: "place",
     district: "District 1",
@@ -348,8 +348,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Bảo tàng Lịch sử Việt Nam nằm ở quận nào?"
     },
     answer: {
-      en: "District 1",
-      vi: "Quận 1"
+      en: "The Museum of Vietnamese History is located in District 1, built in 1929, it houses artifacts from Vietnam's history, from prehistoric times to the present, showcasing the rich cultural heritage of the nation.",
+      vi: "Bảo tàng Lịch sử Việt Nam nằm ở Quận 1, được xây dựng năm 1929, nơi đây lưu giữ các hiện vật từ lịch sử Việt Nam, từ thời tiền sử đến hiện tại, trưng bày di sản văn hóa phong phú của dân tộc."
     },
     category: "place",
     district: "District 1",
@@ -366,8 +366,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Khu dân cư Thảo Điền Pearl nằm ở đâu?"
     },
     answer: {
-      en: "District 2",
-      vi: "Quận 2"
+      en: "Thao Dien Pearl is located in District 2, a luxury residential complex in the heart of Thao Dien, known for its high-end apartments and villas serving the expatriate community.",
+      vi: "Thảo Điền Pearl nằm ở Quận 2, là khu phức hợp dân cư cao cấp ở trung tâm Thảo Điền, nổi tiếng với các căn hộ và biệt thự cao cấp phục vụ cộng đồng người nước ngoài."
     },
     category: "place",
     district: "District 2",
@@ -383,8 +383,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Khu dân cư Masteri Thảo Điền nằm ở quận nào?"
     },
     answer: {
-      en: "District 2",
-      vi: "Quận 2"
+      en: "Masteri Thao Dien is located in District 2, a modern residential complex featuring luxury apartments with stunning river views and extensive amenities for international residents.",
+      vi: "Masteri Thảo Điền nằm ở Quận 2, là khu phức hợp dân cư hiện đại với các căn hộ cao cấp có view sông tuyệt đẹp và nhiều tiện ích cho cư dân quốc tế."
     },
     category: "place",
     district: "District 2",
@@ -400,8 +400,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Trường Quốc tế Thành phố Hồ Chí Minh nằm ở đâu?"
     },
     answer: {
-      en: "District 2",
-      vi: "Quận 2"
+      en: "The International School of Ho Chi Minh City is located in District 2, one of the oldest international schools in Vietnam, offering education from early years to high school with international curriculum.",
+      vi: "Trường Quốc tế Thành phố Hồ Chí Minh nằm ở Quận 2, một trong những trường quốc tế lâu đời nhất tại Việt Nam, cung cấp giáo dục từ mầm non đến trung học phổ thông với chương trình quốc tế."
     },
     category: "place",
     district: "District 2",
@@ -417,8 +417,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Trường Quốc tế Anh nằm ở quận nào?"
     },
     answer: {
-      en: "District 2",
-      vi: "Quận 2"
+      en: "The British International School is located in District 2, a prestigious international school offering British curriculum education and serving the international community in Ho Chi Minh City.",
+      vi: "Trường Quốc tế Anh nằm ở Quận 2, là trường quốc tế uy tín cung cấp giáo dục theo chương trình Anh và phục vụ cộng đồng quốc tế tại Thành phố Hồ Chí Minh."
     },
     category: "place",
     district: "District 2",
@@ -434,8 +434,8 @@ export const flashcards_1_100: Flashcard[] = [
       vi: "Trường Quốc tế Mỹ nằm ở đâu?"
     },
     answer: {
-      en: "District 2",
-      vi: "Quận 2"
+      en: "The American International School is located in District 2, one of the leading international schools in Vietnam, offering American curriculum education and serving expatriate families.",
+      vi: "Trường Quốc tế Mỹ nằm ở Quận 2, một trong những trường quốc tế hàng đầu tại Việt Nam, cung cấp giáo dục theo chương trình Mỹ và phục vụ các gia đình người nước ngoài."
     },
     category: "place",
     district: "District 2",
