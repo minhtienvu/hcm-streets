@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { 
   Container, 
   Typography, 
@@ -27,12 +27,27 @@ function App() {
     (district === 'all' || card.district === district)
   );
 
+  // Reset to first card when filters change
+  useEffect(() => {
+    setCurrentIndex(0);
+  }, [category, district]);
+
   const handleNext = () => {
-    setCurrentIndex((prev) => (prev + 1) % filteredCards.length);
+    // Generate a random index from all available filtered cards
+    const randomIndex = Math.floor(Math.random() * filteredCards.length);
+    setCurrentIndex(randomIndex);
   };
 
   const handlePrevious = () => {
-    setCurrentIndex((prev) => (prev - 1 + filteredCards.length) % filteredCards.length);
+    // Generate a random index from all available filtered cards
+    const randomIndex = Math.floor(Math.random() * filteredCards.length);
+    setCurrentIndex(randomIndex);
+  };
+
+  const handleRandomCard = () => {
+    // Generate a random index from all available filtered cards
+    const randomIndex = Math.floor(Math.random() * filteredCards.length);
+    setCurrentIndex(randomIndex);
   };
 
   return (
@@ -78,8 +93,8 @@ function App() {
               </FormControl>
             </Grid>
             <Grid item xs={12} sm={4}>
-              <Typography variant="body1">
-                Card {currentIndex + 1} of {filteredCards.length}
+              <Typography variant="body1" align="center">
+                Total Cards: {filteredCards.length}
               </Typography>
             </Grid>
           </Grid>
@@ -92,16 +107,25 @@ function App() {
               <Button 
                 variant="contained" 
                 onClick={handlePrevious}
-                disabled={currentIndex === 0}
+                disabled={filteredCards.length <= 1}
               >
-                Previous
+                Random Card
               </Button>
               <Button 
                 variant="contained" 
                 onClick={handleNext}
-                disabled={currentIndex === filteredCards.length - 1}
+                disabled={filteredCards.length <= 1}
               >
-                Next
+                Next Random
+              </Button>
+            </Box>
+            <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
+              <Button 
+                variant="outlined" 
+                onClick={handleRandomCard}
+                size="small"
+              >
+                🎲 Get Random Card
               </Button>
             </Box>
           </>
