@@ -1,4 +1,4 @@
-import { Flashcard, flashcards_1_100 } from './flashcards_1_100';
+import { flashcards_1_100, type Flashcard } from './flashcards_1_100';
 import { flashcards_101_200 } from './flashcards_101_200';
 import { flashcards_201_300 } from './flashcards_201_300';
 import { flashcards_301_400 } from './flashcards_301_400';
@@ -17,7 +17,7 @@ import { flashcards_901_1000 } from './flashcards_901_1000';
 export type { Flashcard };
 
 // Combine all flashcard sets
-export const allFlashcards: Flashcard[] = [
+export const allFlashcards: Array<Flashcard> = [
   ...flashcards_1_100,
   ...flashcards_101_200,
   ...flashcards_201_300,

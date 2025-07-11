@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Card, CardContent, Typography, Box } from '@mui/material';
-import { Flashcard as FlashcardType } from '../data/flashcards';
+import type { Flashcard as FlashcardType } from '../data/flashcards';
 
 interface FlashcardProps {
   flashcard: FlashcardType;
